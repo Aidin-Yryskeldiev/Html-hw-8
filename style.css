@@ -1,0 +1,502 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.border {
+	width: 1050px;
+	height: 600px;
+	border: 5px solid black;
+	border-radius: 8px;
+	margin-top: 20px;
+	margin-left: 250px;
+}
+
+.box {
+	width: 320px;
+	height: 600px;
+	background-color: #f4a460;
+}
+
+.card_1 {
+	width: 295px;
+	height: 410px;
+	background-color: white;
+	margin-left: 10px;
+	position: relative;
+	top: 100px;
+}
+
+.product_name {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	top: -50px;
+}
+
+.lorem {
+	text-align: center;
+	position: relative;
+	top: -40px;
+}
+
+.dollars {
+	text-align: center;
+	position: relative;
+	top: -10px;
+	font-weight: bold;
+	font-size: 40px;
+	color: grey;
+}
+
+.button_addcart {
+	position: relative;
+	top: 40px;
+	left: 100px;
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: orange;
+	border-radius: 16px;
+	border: none;
+	cursor: pointer;
+}
+
+.box_2 {
+	width: 320px;
+	height: 601px;
+	background-color: rgb(36, 35, 35);
+	position: relative;
+	top: -423px;
+	left: 310px;
+}
+
+.photo_nursultan {
+	width: 35px;
+	height: 35px;
+	border-radius: 8px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.photo_n {
+	width: 15px;
+	height: 15px;
+	background-color: green;
+	border-radius: 50%;
+	position: relative;
+	top: -10px;
+	left: 32px;
+	border: 2px solid black;
+}
+
+.name {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	top: -40px;
+	left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.line {
+	border: 1px solid;
+	color: grey;
+	position: relative;
+	top: -15px;
+}
+
+.name_nurana {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	position: relative;
+	top: -50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.photo_nurana {
+	width: 35px;
+	height: 35px;
+	border-radius: 8px;
+	position: relative;
+	top: 5px;
+	left: 30px;
+}
+
+.photo_nur {
+	width: 15px;
+	height: 15px;
+	background-color: black;
+	border-radius: 50%;
+	position: relative;
+	top: -10px;
+	left: 55px;
+	border: 2px solid white;
+}
+
+.slack {
+	color: white;
+	font-size: 25px;
+	position: relative;
+	top: 280px;
+}
+.slack:hover {
+	cursor: pointer;
+	background-color: purple;
+}
+
+.girl {
+	width: 410px;
+	height: 600px;
+	background-color: grey;
+	margin-left: 320px;
+	margin-top: -322px;
+}
+
+.girl_box {
+	width: 370px;
+	height: 300px;
+	background-color: white;
+	border-radius: 12px;
+	position: relative;
+	top: 280px;
+	left: 20px;
+}
+
+.round_plus {
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	border-radius: 50%;
+	position: relative;
+	top: -250px;
+	left: 150px;
+	box-shadow: 2px 2px 12px 0px red;
+}
+
+.span_plus {
+	font-size: 30px;
+	position: relative;
+	top: 8px;
+	left: 17px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.text {
+	position: relative;
+	top: -135px;
+	left: 50px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.number {
+	position: relative;
+	top: -120px;
+	left: 45px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.text_following {
+	position: relative;
+	top: -182px;
+	left: 150px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+
+.number_five {
+	position: relative;
+	top: -170px;
+	left: 170px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.text-followers {
+	position: relative;
+	top: -230px;
+	left: 270px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.number_seven {
+	position: relative;
+	top: -220px;
+	left: 285px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.emma_watson {
+	width: 370px;
+	height: 300px;
+	position: relative;
+	top: -260px;
+	border-radius: 12px 12px 0px 0px;
+}
+
+.adidas_photo {
+	width: 150px;
+	position: relative;
+	top: -50px;
+	border-radius: 50%;
+	left: 80px;
+}
+/* 
+.input_search {
+	width: 220px;
+	height: 30px;
+	position: relative;
+	top: -10px;
+	left: 10px;
+}
+
+.photo_donkey {
+	position: relative;
+	top: 50px;
+	right: 212px;
+	width: 40px;
+}
+
+.name_nurislam {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	left: 65px;
+}
+
+.text_you {
+	color: blue;
+	position: relative;
+	top: 5px;
+	left: 65px;
+}
+
+.photo_syimyk {
+	position: relative;
+	top: 20px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_syimyk {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -24px;
+	left: 65px;
+}
+
+.text_first {
+	color: blue;
+	position: relative;
+	top: -20px;
+	left: 65px;
+}
+
+.photo_kutman {
+	position: relative;
+	top: -5px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_kutman {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -50px;
+	left: 65px;
+}
+
+.text_second {
+	color: blue;
+	position: relative;
+	top: -45px;
+	left: 65px;
+}
+
+.photo_adilet {
+	position: relative;
+	top: -35px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_adilet {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -80px;
+	left: 65px;
+}
+
+.text_third {
+	color: blue;
+	position: relative;
+	top: -75px;
+	left: 65px;
+}
+
+.photo_dooronbekov {
+	position: relative;
+	top: -60px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_dooronbekov {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -105px;
+	left: 65px;
+}
+
+.text_fourth {
+	color: blue;
+	position: relative;
+	top: -100px;
+	left: 65px;
+}
+
+.photo_aichyrok {
+	position: relative;
+	top: -90px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_aichyrok {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -135px;
+	left: 65px;
+}
+
+.text_fifth {
+	color: blue;
+	position: relative;
+	top: -130px;
+	left: 65px;
+}
+
+.photo_hadija {
+	position: relative;
+	top: -115px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_hadija {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -160px;
+	left: 65px;
+}
+
+.text_sixth {
+	color: blue;
+	position: relative;
+	top: -155px;
+	left: 65px;
+}
+
+.photo_aizat {
+	position: relative;
+	top: -140px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_aizat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -185px;
+	left: 65px;
+}
+
+.text_seventh {
+	color: blue;
+	position: relative;
+	top: -180px;
+	left: 65px;
+}
+
+.photo_baiel {
+	position: relative;
+	top: -170px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_baiel {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -215px;
+	left: 65px;
+}
+
+.text_eighth {
+	color: blue;
+	position: relative;
+	top: -210px;
+	left: 65px;
+}
+
+.photo_instructor {
+	position: relative;
+	top: -200px;
+	left: 12px;
+	width: 40px;
+}
+
+.name_instructor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	font-size: 15px;
+	top: -245px;
+	left: 65px;
+}
+
+.text_ninth {
+	color: blue;
+	position: relative;
+	top: -240px;
+	left: 65px;
+} */
